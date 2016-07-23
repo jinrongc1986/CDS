@@ -1,2 +1,2 @@
 # CDS
-for python learning
+for cds learn
